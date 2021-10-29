@@ -1,7 +1,11 @@
 {
+<<<<<<< HEAD
   "notebooks": {
     "python-sorting-divide-and-conquer.ipynb": {
       "slug": "4304b5a81ca6408981f9f8c0cd288f29"
     }
   }
+=======
+  "notebooks": {}
+>>>>>>> acdc28c2c07b471aa11cea2639a509ca71336c74
 }
